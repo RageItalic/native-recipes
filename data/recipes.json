@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "recipeName": "Boiled Water",
+    "ingredients": [
+      "1 liter of water"
+    ],
+    "instructions": "Boil the water. Done!",
+    "image": "http://content.12newsnow.com/photo/2017/03/08/boil%20water_1488982892532_8929400_ver1.0.jpg"
+  },
+  {
+    "id": 2,
+    "recipeName": "Cup noodles",
+    "ingredients": [
+      "Boiled Water",
+      "Cup Noodles"
+    ],
+    "instructions": "Boil the water (see the other recipe).\nAdd the water to the Cup Noodles.\nWait 3 minutes.\nEnjoy!",
+    "image": "https://mykoreankitchen.com/wp-content/uploads/2007/02/4.-How-to-make-Korean-instant-cup-noodles.jpg"
+  },
+  {
+  	"id": 3,
+  	"recipeName": "Home Fries",
+  	"ingredients": [
+  		"Potatoes"
+  	],
+  	"instructions": "Peel Potatoes.\nCut and Microwave for 4 minutes.\nCut into smaller pieces.\nOil and butter pan, add potatoes, let brown. \nEnjoy!",
+  	"image": "https://www.macheesmo.com/wp-content/uploads/2014/04/potatoesdone_550.jpg"
+  }
+]
