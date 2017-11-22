@@ -59,13 +59,10 @@ class RecipeList extends Component {
 const styles = StyleSheet.create({
 	container: {
 		display: 'flex',
-	    // height: '100%',
-	    // width: '100%',
-	    // flexDirection: 'column',
-	    // paddingTop: 100,
-	    flex: 0.75,
+	    flex: 1,
 	    justifyContent: 'center',
-	    alignItems: 'center'
+	    alignItems: 'center',
+	    backgroundColor: '#21CE99'
 	},
 	centered: {
 	    alignSelf: 'center',
